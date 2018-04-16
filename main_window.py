@@ -559,7 +559,7 @@ class Ui_Dialog(object):
         self.label_18.setText(_translate("Dialog", "Start time", None))
         self.label_21.setText(_translate("Dialog", "Include words", None))
         self.label_25.setText(_translate("Dialog", "Source application", None))
-        self.label_37.setText(_translate("Dialog", "Mutimedia", None))
+        self.label_37.setText(_translate("Dialog", "Multimedia", None))
         self.label_38.setText(_translate("Dialog", "Retweet", None))
         self.rb_RT_yes.setText(_translate("Dialog", "Yes", None))
         self.rb_RT_no.setText(_translate("Dialog", "No", None))
